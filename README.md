@@ -1,3 +1,8 @@
+# DEPRECATED
+Check out the [new version](https://github.com/rodrigogama/fantastic-quotes) I'm building =). Thanks.
+
+Ps: feel free to check this one out if you wish 👀
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
